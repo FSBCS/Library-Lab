@@ -1,4 +1,4 @@
-## Advanced Topics in Computer Science
+# Advanced Topics in Computer Science
 
 *End-of-Unit Project*: Library Management System
 

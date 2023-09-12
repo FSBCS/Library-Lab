@@ -1,6 +1,6 @@
-**Advanced Topics in Computer Science: End-of-Unit Project**
+## Advanced Topics in Computer Science
 
-**Assignment Title:** Library Management System
+*End-of-Unit Project*: Library Management System
 
 **Objective:** Develop a Python-based library management system that handles books, patrons, and lending.
 

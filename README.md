@@ -52,13 +52,3 @@ Design a system for a local library to manage its books, patrons, and lending op
 5. **Outputting and Displaying Multiple Records**:
     - Allow export of book, patron, or lending records as `.csv` or `.json` files.
     - Implement an option to view the aforementioned records in a tabulated format using the pandas package.
-
----
-
-**Submission:** 
-- Upload your project to a public GitHub repository.
-- Submit the repository link on the provided Assignment Submission Platform.
-
----
-
-Good luck with your project, and remember to collaborate effectively, share ideas, and enjoy the coding process!
